@@ -1,0 +1,11 @@
+{
+  "name": "js-asincronia",
+  "version": "1.0.0",
+  "description": "Asincronia con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexDev2808",
+  "license": "MIT"
+}
