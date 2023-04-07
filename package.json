@@ -4,7 +4,7 @@
   "description": "Asincronia con JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node callbacks/challenge.js"
   },
   "author": "alexDev2808",
   "license": "MIT",
