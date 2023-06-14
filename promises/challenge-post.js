@@ -17,7 +17,7 @@ function postData(urlAPI, data) {
 }
 
 const data = {
-    "title": "#Nunca pares de aprender",
+    "title": "#AlexisEstuvoAqui",
     "price": 199,
     "description": "Own description",
     "categoryId": 1,
